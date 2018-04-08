@@ -1,4 +1,4 @@
-
+;; vim: set nohlsearch nonumber norelativenumber:
 
 ; ┏━┓╻ ╻┏━╸╻  ╻     ┏━┓┏━╸┏━┓╻┏━┓╺┳╸╻┏┓╻┏━╸
 ; ┗━┓┣━┫┣╸ ┃  ┃     ┗━┓┃  ┣┳┛┃┣━┛ ┃ ┃┃┗┫┃╺┓
