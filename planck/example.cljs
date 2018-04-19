@@ -2,6 +2,7 @@
 
 (require '[planck.core :refer [slurp *in*]])
 
+;; or use as-> (./example-as.cljs)
 (def input (-> *in*
                slurp
                JSON.parse
