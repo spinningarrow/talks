@@ -422,6 +422,66 @@
 
 
 
+; ┏┳┓┏━┓┏━┓┏━╸
+; ┃┃┃┃ ┃┣┳┛┣╸
+; ╹ ╹┗━┛╹┗╸┗━╸
+
+;; Planck User Guide: http://planck-repl.org/guide.html
+
+;; Lumo (CLJS on NodeJS): https://github.com/anmonteiro/lumo
+
+;; Closh (Clojure bash-like shell): https://github.com/dundalek/closh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ; ╺┳╸╻ ╻┏━┓┏┓╻╻┏ ┏━┓
 ;  ┃ ┣━┫┣━┫┃┗┫┣┻┓┗━┓
